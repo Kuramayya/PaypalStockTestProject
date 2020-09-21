@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10693" started-at="2020-09-21T16:35:37 PDT" finished-at="2020-09-21T16:35:48 PDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10693" started-at="2020-09-21T16:35:37 PDT" finished-at="2020-09-21T16:35:48 PDT">
+      <class name="com.paypal.qa.testcases.GoogleSerchPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.paypal.qa.testcases.GoogleSerchPageTest@105b693d]" name="setup" is-config="true" duration-ms="8658" started-at="2020-09-21T16:35:37 PDT" finished-at="2020-09-21T16:35:46 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="googleSearchTest(java.lang.String)[pri:1, instance:com.paypal.qa.testcases.GoogleSerchPageTest@105b693d]" name="googleSearchTest" duration-ms="1786" started-at="2020-09-21T16:35:46 PDT" finished-at="2020-09-21T16:35:48 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[175]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.paypal.qa.testcases.GoogleSerchPageTest@105b693d]" name="tearDown" is-config="true" duration-ms="186" started-at="2020-09-21T16:35:48 PDT" finished-at="2020-09-21T16:35:48 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.paypal.qa.testcases.GoogleSerchPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
